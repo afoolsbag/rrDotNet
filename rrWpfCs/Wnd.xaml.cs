@@ -15,12 +15,10 @@ using System.Windows.Shapes;
 
 namespace rrWpfCs
 {
-    /// <summary>
-    /// MainWindow.xaml 的交互逻辑
-    /// </summary>
-    public partial class MainWindow : Window
+    /// <summary> Main Window </summary>
+    public partial class Wnd : Window
     {
-        public MainWindow()
+        public Wnd()
         {
             InitializeComponent();
         }
