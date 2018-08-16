@@ -1,12 +1,15 @@
-# [.NET](https://microsoft.com/net)
+# .NET in zhengrr's eyes
 
-## Programming Styles
+[*.NET*](https://microsoft.com/net)
 
-["Framework Design Guidelines"](https://docs.microsoft.com/dotnet/standard/design-guidelines/). *Microsoft® Docs*.
+# Styles
 
-## Groceries
+["Framework Design Guidelines"](https://docs.microsoft.com/dotnet/standard/design-guidelines/). *Microsoft Docs*.
 
-[*MSBuild*](http://github.com/microsoft/msbuild)
+# Awesome
 
+[*Awesome .NET!*](https://github.com/quozd/awesome-dotnet)
+
+[*MSBuild*](https://github.com/microsoft/msbuild)
+[*ReSharper*](https://jetbrains.com/resharper)
 [*Visual Studio*](https://visualstudio.com)
-+ [*ReSharper*](https://jetbrains.com/resharper)

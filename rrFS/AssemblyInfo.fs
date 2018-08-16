@@ -1,4 +1,4 @@
-﻿namespace rrFS.AssemblyInfo
+namespace rrFS.AssemblyInfo
 
 open System.Reflection
 open System.Runtime.CompilerServices
@@ -12,7 +12,7 @@ open System.Runtime.InteropServices
 [<assembly: AssemblyConfiguration("")>]
 [<assembly: AssemblyCompany("")>]
 [<assembly: AssemblyProduct("rrFS")>]
-[<assembly: AssemblyCopyright("Copyright ©  2018")>]
+[<assembly: AssemblyCopyright("Copyright © 2018")>]
 [<assembly: AssemblyTrademark("")>]
 [<assembly: AssemblyCulture("")>]
 

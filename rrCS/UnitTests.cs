@@ -1,16 +1,18 @@
-﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace rrCS
 {
 
     [TestClass]
-    public class UnitTest1
+    public class UnitTests
     {
+
         [TestMethod]
-        public void TestMethod1()
+        public void TestMethod()
         {
+            Assert.AreEqual(3, 1 + 2);
         }
+
     }
 
 }
