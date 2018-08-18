@@ -2,7 +2,6 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace rrCS
 {
-
     [TestClass]
     public class UnitTests
     {
@@ -14,5 +13,4 @@ namespace rrCS
         }
 
     }
-
 }

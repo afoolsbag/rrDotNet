@@ -2,17 +2,17 @@ using System;
 
 namespace rrCS
 {
-
     /// <summary>
     /// <para> C# https://docs.microsoft.com/dotnet/csharp/ </para>
     /// </summary>
-    class RrCS
+    class MainClass
     {
-        static void Main()
+
+        static void Main(string[] args)
         {
-            Console.WriteLine("hello, csharp");
+            Console.WriteLine("hello, c-sharp");
             Console.ReadKey();
         }
-    }
 
+    }
 }
