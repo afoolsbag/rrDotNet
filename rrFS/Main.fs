@@ -1,13 +1,15 @@
-/// <summary>
-/// <para> F# https://fsharp.org/ </para>
-/// <para> F# https://docs.microsoft.com/dotnet/fsharp/ </para>
-/// </summary>
-module RrFS
+namespace rrFS
 
 open System
 
-[<EntryPoint>]
-let main argv = 
-    printfn "hello, fsharp" 
-    Console.ReadLine() |> ignore
-    0 
+/// <summary>
+/// F# https://fsharp.org/
+/// F# https://docs.microsoft.com/dotnet/fsharp/
+/// </summary>
+module EntryPoint =
+
+    [<EntryPoint>]
+    let main args =
+        printfn "hello, world"
+        Console.ReadLine |> ignore
+        0

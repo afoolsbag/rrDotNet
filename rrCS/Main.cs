@@ -3,14 +3,14 @@ using System;
 namespace rrCS
 {
     /// <summary>
-    /// <para> C# https://docs.microsoft.com/dotnet/csharp/ </para>
+    /// C# https://docs.microsoft.com/dotnet/csharp/
     /// </summary>
-    class MainClass
+    class EntryPoint
     {
 
         static void Main(string[] args)
         {
-            Console.WriteLine("hello, c-sharp");
+            Console.WriteLine("hello, world");
             Console.ReadKey();
         }
 

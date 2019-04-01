@@ -1,9 +1,11 @@
+Imports Xunit
+
 Class Clazz
 
     ''' <summary>
     ''' <para> 构造函数 https://docs.microsoft.com/dotnet/visual-basic/reference/language-specification/type-members#constructors </para>
     ''' </summary>
-    Public Sub New ()
+    Public Sub New()
         Console.WriteLine("Constructor")
     End Sub
 
@@ -17,12 +19,11 @@ Class Clazz
 
 End Class
 
-<TestClass()>
 Public Class Classes
 
-    <TestMethod()>
+    <Fact>
     Public Sub TestMethod()
-        Dim clz As Clazz = new Clazz()
+        Dim clz As Clazz = New Clazz()
     End Sub
 
 End Class

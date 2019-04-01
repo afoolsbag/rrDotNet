@@ -1,10 +1,10 @@
 ''' <summary>
-''' <para> Visual Basic https://docs.microsoft.com/dotnet/visual-basic/ </para>
+''' Visual Basic https://docs.microsoft.com/dotnet/visual-basic/
 ''' </summary>
-Module MainModule
+Module EntryPoint
 
     Sub Main()
-        Console.WriteLine("hello, visual-basic")
+        Console.WriteLine("hello, world")
         Console.ReadKey()
     End Sub
 
