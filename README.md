@@ -2,7 +2,7 @@
 
 > [![Should You Learn Python, C, or Ruby to Be a Top Coder?](./README-IMG.jpg)](https://byrslf.co/188a5bdc9f54 "Should You Learn Python, C, or Ruby to Be a Top Coder?")
 
-[*.NET*](https://microsoft.com/net)
+[*.NET*](https://dotnet.microsoft.com/)
 
 ## 风格
 

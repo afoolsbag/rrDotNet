@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace rrWpfCs.Properties
+namespace rrWpf.Properties
 {
 
 

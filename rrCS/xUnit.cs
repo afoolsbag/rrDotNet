@@ -3,7 +3,7 @@ using Xunit;
 namespace rrCS
 {
     /// <summary>
-    /// xUnit https://xunit.net/
+    /// <seealso cref="https://xunit.net/">xUnit</seealso>
     /// </summary>
     public class XUnit
     {
